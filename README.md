@@ -1,2 +1,2 @@
-# GitT3st
+# GitTest
 ez egy próba repository
